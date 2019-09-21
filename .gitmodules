@@ -1,0 +1,6 @@
+[submodule "thirdparty/jpeg-6b"]
+	path = thirdparty/jpeg-6b
+	url = ../jpeg-6b
+[submodule "thirdparty/jpeg-9c"]
+	path = thirdparty/jpeg-9c
+	url = ../jpeg-9c
