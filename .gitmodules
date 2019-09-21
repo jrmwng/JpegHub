@@ -1,9 +1,9 @@
 [submodule "thirdparty/jpeg-6b"]
 	path = thirdparty/jpeg-6b
-	url = ../jpeg-6b
+	url = https://github.com/jrmwng/jpeg-6b
 [submodule "thirdparty/jpeg-9c"]
 	path = thirdparty/jpeg-9c
-	url = ../jpeg-9c
+	url = https://github.com/jrmwng/jpeg-9c
 [submodule "thirdparty/libjpeg-turbo"]
 	path = thirdparty/libjpeg-turbo
 	url = https://github.com/libjpeg-turbo/libjpeg-turbo
