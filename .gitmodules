@@ -4,3 +4,6 @@
 [submodule "thirdparty/jpeg-9c"]
 	path = thirdparty/jpeg-9c
 	url = ../jpeg-9c
+[submodule "thirdparty/libjpeg-turbo"]
+	path = thirdparty/libjpeg-turbo
+	url = https://github.com/libjpeg-turbo/libjpeg-turbo
